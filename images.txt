@@ -4,5 +4,6 @@
 #xhofe/alist:latest
 heartexlabs/label-studio
 ubuntu:24.04
+alphacep/kaldi-cn
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
