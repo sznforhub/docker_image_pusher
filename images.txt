@@ -11,3 +11,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 mysql:8.0.42
 python:3.12
+mysql:8.0.42-debian
