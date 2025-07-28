@@ -9,6 +9,12 @@
 #tomcat:9.0.104-jdk8-corretto-al2
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-mysql:8.0.42
-python:3.12
-mysql:8.0.42-debian
+#mysql:8.0.42
+#python:3.12
+#mysql:8.0.42-debian
+--platform=linux/arm64 nginx:1.26.3
+--platform=linux/arm64 redis:7.2.3
+--platform=linux/arm64 rabbitmq:3.12.10
+--platform=linux/arm64 ossrs/srs:5.0.213
+--platform=linux/arm64 tomcat:9.0.83
+--platform=linux/arm64 ubuntu:22.04
