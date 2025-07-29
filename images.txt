@@ -19,4 +19,5 @@
 #--platform=linux/arm64 tomcat:9.0.83
 #--platform=linux/arm64 ubuntu:22.04
 
-tonistiigi/binfmt:latest
+#tonistiigi/binfmt:latest
+moby/buildkit:v0.23.0
